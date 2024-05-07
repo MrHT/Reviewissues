@@ -1,6 +1,6 @@
-### Reviewissues ：iOS提审被拒相关问题记录
+# Reviewissues ：iOS提审被拒相关问题记录
 
-# 1、无法添加以供审核 要开始审核流程，必须提供以下项目
+### 1、无法添加以供审核 要开始审核流程，必须提供以下项目
 点击添加以供审核时报错：
 ![enter image description here](https://github.com/MrHT/Reviewissues/blob/main/review.png?raw=true)
 
